@@ -1,0 +1,48 @@
+Swati Desai
+234 Tulip Road, Hyderabad, India | +91 87654 56789 | swati.desai@email.com
+
+Objective:
+Passionate data engineer with expertise in designing and implementing robust data solutions. Seeking a challenging position to contribute to projects that leverage big data technologies and drive business insights.
+
+Education:
+Master of Science in Data Engineering
+International Institute of Information Technology (IIIT) | Hyderabad, India | May 2021
+
+Bachelor of Technology in Computer Science and Engineering
+Jawaharlal Nehru Technological University (JNTU) | Hyderabad, India | May 2019
+
+Skills:
+- Big Data Technologies: Apache Hadoop, Apache Spark
+- Data Warehousing: Amazon Redshift
+- ETL Tools: Apache NiFi, Talend
+- Database Management: MySQL, PostgreSQL
+- Programming Languages: Python, Java
+- Cloud Platforms: AWS, Google Cloud Platform
+- Data Modeling and Visualization: Tableau
+- Distributed Systems
+- SQL and NoSQL Databases: Cassandra
+
+Work Experience:
+Data Engineer | DataScape Technologies | Hyderabad, India | June 2021 - Present
+- Implemented data pipelines using Apache Spark for large-scale data processing.
+- Designed and maintained data warehouse solutions for business intelligence and reporting.
+- Collaborated with cross-functional teams to ensure data quality and integrity.
+
+Intern, Data Engineering | SmartAnalytics Consulting | Hyderabad, India | May 2020 - August 2020
+- Assisted in the development of ETL processes using Apache NiFi and Talend.
+- Conducted data profiling and analysis to identify data quality issues.
+- Participated in the design and implementation of data models for analytical purposes.
+
+Projects:
+1. Real-time Data Processing Pipeline
+   - Led the implementation of a real-time data processing pipeline using Apache Spark and Kafka.
+   - Integrated streaming data sources to provide real-time insights for business applications.
+
+2. Cloud-Based Data Warehouse Migration
+   - Managed the migration of on-premises data warehouse to Amazon Redshift.
+   - Ensured data consistency, performance optimization, and minimized downtime during the migration.
+
+Certifications:
+- AWS Certified Big Data - Specialty
+- Talend Data Integration Certified Developer
+

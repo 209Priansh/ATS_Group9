@@ -1,0 +1,44 @@
+Vikram Singh
+567 Sunflower Road, New Delhi, India | +91 87654 98765 | vikram.singh@email.com
+
+Objective:
+Passionate full-stack developer with a focus on building scalable and efficient web applications. Seeking a challenging position to apply my technical skills and contribute to the development of cutting-edge projects.
+
+Education:
+Bachelor of Technology in Information Technology
+Delhi Technological University (DTU) | New Delhi, India | May 2020
+
+Skills:
+- Front-end Development: React, Vue.js, JavaScript, HTML, CSS
+- Back-end Development: Node.js, Express, Django
+- Database Management: MongoDB, MySQL
+- RESTful API Development
+- Version Control: Git
+- Cloud Platforms: Heroku, Firebase
+- Responsive Web Design
+- Agile Development Methodologies
+- Problem-Solving and Debugging
+
+Work Experience:
+Full-Stack Developer | CodeCraft Innovations | New Delhi, India | June 2020 - Present
+- Developed and maintained web applications using React for the front end and Node.js for the back end.
+- Implemented RESTful APIs for seamless data communication between the client and server.
+- Collaborated in the design and optimization of databases for improved performance.
+
+Intern, Software Development | XYZ Tech Solutions | New Delhi, India | May 2019 - August 2019
+- Assisted in the development of a content management system using Django and Vue.js.
+- Conducted code reviews and contributed to the implementation of new features.
+- Participated in troubleshooting and debugging sessions.
+
+Projects:
+1. Social Networking Platform - Connectify
+   - Led the development of a social networking platform with features for user profiles, posts, and real-time messaging.
+   - Implemented user authentication and authorization using Firebase.
+
+2. E-Learning Portal
+   - Collaborated in the creation of an e-learning portal with interactive lessons and quizzes.
+   - Integrated a payment gateway for course subscriptions and certifications.
+
+Certifications:
+- Full-Stack Web Development Certification (Udemy)
+

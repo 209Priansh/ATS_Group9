@@ -1,0 +1,48 @@
+Amit Verma
+101 Ganga Street, Mumbai, India | +91 98765 67890 | amit.verma@email.com
+
+Objective:
+Innovative and detail-oriented cybersecurity professional with a focus on securing digital assets. Seeking a challenging role to leverage my skills in ensuring the confidentiality and integrity of sensitive information.
+
+Education:
+Master of Technology in Cyber Security
+National Institute of Technology (NIT) | Mumbai, India | May 2022
+
+Bachelor of Engineering in Computer Science
+University of Mumbai | Mumbai, India | May 2020
+
+Skills:
+- Cybersecurity: Penetration Testing, Threat Analysis, Incident Response
+- Network Security: Firewalls, VPNs, IDS/IPS
+- Security Certifications: CEH, CISSP
+- Programming Languages: Python, Bash
+- Web Application Security: OWASP Top 10
+- Cloud Security: AWS, Azure
+- Cryptography: Encryption, Digital Signatures
+- Security Compliance: GDPR, ISO 27001
+- Risk Assessment and Mitigation
+
+Work Experience:
+Cybersecurity Analyst | SecureTech Solutions | Mumbai, India | June 2022 - Present
+- Conducted penetration tests and vulnerability assessments on client networks and applications.
+- Implemented security measures to protect against malware, phishing, and other cyber threats.
+- Collaborated with clients to develop and improve security policies and procedures.
+
+Intern, Cybersecurity | XYZ Bank | Mumbai, India | May 2021 - August 2021
+- Assisted in analyzing security logs and conducting forensic investigations.
+- Implemented security controls to enhance the overall security posture of the organization.
+- Participated in creating and delivering cybersecurity awareness training for employees.
+
+Projects:
+1. Network Hardening Project
+   - Led a project to assess and improve the security posture of the organization's network infrastructure.
+   - Implemented firewall rules, VPN configurations, and intrusion detection systems.
+
+2. Secure Web Application Development
+   - Collaborated in developing a secure web application following OWASP guidelines.
+   - Conducted security code reviews and implemented secure coding practices.
+
+Certifications:
+- Certified Ethical Hacker (CEH)
+- Certified Information Systems Security Professional (CISSP)
+

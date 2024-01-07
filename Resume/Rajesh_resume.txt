@@ -1,0 +1,43 @@
+Rajesh Kumar
+789 Maple Street, Bangalore, India | +91 98765 43210 | raj.kumar@email.com
+
+Objective:
+Results-driven software engineer with expertise in full-stack development. Seeking a challenging position to apply my skills in building robust and scalable applications.
+
+Education:
+Bachelor of Technology in Computer Science and Engineering
+Indian Institute of Technology (IIT) | Bangalore, India | May 2021
+
+Skills:
+- Programming Languages: Java, Python
+- Web Development: Spring Boot, Django
+- Front-end Technologies: React, HTML, CSS
+- Database Management: MySQL, MongoDB
+- Cloud Computing: AWS
+- DevOps: Docker, Jenkins
+- Agile Development Methodologies
+- Problem-Solving and Algorithmic Skills
+
+Work Experience:
+Software Developer | Tech Innovators Pvt. Ltd. | Bangalore, India | June 2021 - Present
+- Collaborated in the development of a cloud-based e-commerce platform using Spring Boot and React.
+- Integrated third-party APIs for payment gateways and order fulfillment.
+- Implemented automated testing and continuous integration using Jenkins.
+
+Intern, Software Engineering | XYZ Startups | Bangalore, India | May 2020 - August 2020
+- Assisted in the development of a real-time chat application using Django and React.
+- Implemented user authentication, message storage, and notification features.
+- Conducted code reviews and participated in sprint planning.
+
+Projects:
+1. Online Learning Platform
+   - Led the development of an online learning platform using Spring Boot and React.
+   - Implemented user authentication, course management, and video streaming features.
+
+2. Inventory Management System
+   - Developed an inventory management system using Java and MySQL for efficient stock tracking.
+   - Implemented a user-friendly web interface for managing product details and inventory levels.
+
+Certifications:
+- AWS Certified Solutions Architect - Associate
+

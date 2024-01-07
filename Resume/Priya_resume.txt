@@ -1,0 +1,48 @@
+Priya Sharma
+456 Lotus Lane, Pune, India | +91 87654 32109 | priya.sharma@email.com
+
+Objective:
+Dynamic data scientist with a passion for extracting meaningful insights from complex datasets. Seeking a challenging role to apply my expertise in machine learning and analytics.
+
+Education:
+Master of Science in Data Science
+Indian Statistical Institute | Pune, India | June 2020
+
+Bachelor of Technology in Information Technology
+Pune Institute of Computer Technology | Pune, India | May 2018
+
+Skills:
+- Machine Learning: Python, scikit-learn, TensorFlow, Keras
+- Data Analysis and Visualization: Pandas, Matplotlib, Seaborn
+- Statistical Analysis: R
+- Big Data Technologies: Apache Spark
+- Natural Language Processing (NLP)
+- Deep Learning: Neural Networks
+- SQL and NoSQL Databases: MySQL, MongoDB
+- Time Series Analysis
+- Feature Engineering and Model Optimization
+
+Work Experience:
+Data Scientist | DataTech Analytics | Pune, India | July 2020 - Present
+- Developed predictive models for customer churn analysis using machine learning techniques.
+- Conducted exploratory data analysis (EDA) to identify patterns and trends in customer behavior.
+- Collaborated with cross-functional teams to implement data-driven solutions.
+
+Intern, Data Science | Insights Consulting Services | Pune, India | May 2019 - August 2019
+- Assisted in developing a recommendation system for an e-commerce platform using collaborative filtering.
+- Conducted sentiment analysis on customer reviews to provide insights for product improvements.
+- Prepared and presented reports to communicate findings to stakeholders.
+
+Projects:
+1. Predictive Maintenance System
+   - Led the development of a predictive maintenance system using time-series analysis and machine learning.
+   - Implemented algorithms to predict equipment failures and optimize maintenance schedules.
+
+2. Sentiment Analysis on Social Media Data
+   - Conducted sentiment analysis on social media data using NLP techniques.
+   - Extracted insights into public opinion and brand perception.
+
+Certifications:
+- TensorFlow Developer Certificate
+- Microsoft Certified: Azure AI Engineer Associate
+

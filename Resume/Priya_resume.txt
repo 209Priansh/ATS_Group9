@@ -1,5 +1,5 @@
-Priya Sharma
-456 Lotus Lane, Pune, India | +91 87654 32109 | priya.sharma@email.com
+Name:Priya Sharma
+Address:456 Lotus Lane, Pune, India |contact:+91 87654 32109 |email:priya.sharma@email.com
 
 Objective:
 Dynamic data scientist with a passion for extracting meaningful insights from complex datasets. Seeking a challenging role to apply my expertise in machine learning and analytics.

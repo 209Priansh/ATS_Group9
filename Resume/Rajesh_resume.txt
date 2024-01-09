@@ -1,5 +1,5 @@
-Rajesh Kumar
-789 Maple Street, Bangalore, India | +91 98765 43210 | raj.kumar@email.com
+Name:Rajesh Kumar
+Address:789 Maple Street, Bangalore, India |contact:+91 98765 43210 |email:raj.kumar@email.com
 
 Objective:
 Results-driven software engineer with expertise in full-stack development. Seeking a challenging position to apply my skills in building robust and scalable applications.

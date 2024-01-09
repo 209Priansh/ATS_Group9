@@ -1,5 +1,5 @@
-Swati Desai
-234 Tulip Road, Hyderabad, India | +91 87654 56789 | swati.desai@email.com
+Name:Swati Desai
+Address:234 Tulip Road, Hyderabad, India |contact:+91 87654 56789 |email:swati.desai@email.com
 
 Objective:
 Passionate data engineer with expertise in designing and implementing robust data solutions. Seeking a challenging position to contribute to projects that leverage big data technologies and drive business insights.

@@ -1,5 +1,5 @@
-Vikram Singh
-567 Sunflower Road, New Delhi, India | +91 87654 98765 | vikram.singh@email.com
+Name:Vikram Singh
+Address:567 Sunflower Road, New Delhi, India |contact:+91 87654 98765 |email:vikram.singh@email.com
 
 Objective:
 Passionate full-stack developer with a focus on building scalable and efficient web applications. Seeking a challenging position to apply my technical skills and contribute to the development of cutting-edge projects.
